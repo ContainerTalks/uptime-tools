@@ -10,8 +10,9 @@ There are many tools for knowing the uptime of the services with the following p
 
 # Container Validation
 
-Here the lis of containers validated running them as containers.
-1. [Uptime Kuma](../uptime-kuma/)
+Validated `docker-compose.yml` and updated in the repo for easy of use.
+
+1. [Uptime Kuma](https://github.com/Docker-X/uptime-tools/tree/main/uptime-kuma)
 
 ## Tools List 
 | Tool | Licensing | Git Stats | Blog |

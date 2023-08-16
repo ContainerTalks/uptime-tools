@@ -13,7 +13,7 @@ There are many tools for knowing the uptime of the services with the following p
 Validated `docker-compose.yml` and updated in the repo for easy of use.
 
 1. [Uptime Kuma](https://github.com/Docker-X/uptime-tools/tree/main/uptime-kuma)
-
+1. [Statping NG](https://github.com/Docker-X/uptime-tools/tree/main/statping)
 ## Tools List 
 | Tool | Licensing | Git Stats | Blog |
 |--|--|--|--|

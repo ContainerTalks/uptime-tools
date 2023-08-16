@@ -9,6 +9,6 @@ There are many tools for knowing the uptime of the services with the following p
 - DNS
 
 ## Tools List 
-| Tool | Licensing | Demo | Git Repo |
+| Tool | Licensing | Git Repo |
 |--|--|--|--|
-|uptime-kuma|Open-source|[uptime-demo](https://demo.uptime.kuma.pet)|[https://github.com/louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)|
+|[uptime-kuma demo](https://demo.uptime.kuma.pet)|Open-source| [github](https://github.com/louislam/uptime-kuma) <a target="_blank" href="https://github.com/louislam/uptime-kuma"><img src="https://img.shields.io/github/stars/louislam/uptime-kuma" /></a> |
